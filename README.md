@@ -4,7 +4,7 @@
     <h1 align="center">✩&emsp;Ytemiloluwa&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Helloooooooooooooo;Welcome+to+my+profile!;Take+a+tour+of+my+repos+!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Helloooooooooooooo;Welcome+to+my+profile!;Take+a+tour+of+my+repo+!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
